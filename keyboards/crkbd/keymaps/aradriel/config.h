@@ -43,8 +43,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //     #define RGBLIGHT_VAL_STEP 17
 // #endif
 
-#define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
-// #define OLED_FONT_H "keyboards/crkbd/keymaps/aradriel/glcdfont.c"
+// #define OLED_FONT_H "keyboards/crkbd/lib/glcdfont.c"
+#define OLED_FONT_H "keyboards/crkbd/keymaps/aradriel/glcdfont.c"
 
 // https://docs.qmk.fm/#/feature_rgb_matrix?id=custom-rgb-matrix-effects
 
