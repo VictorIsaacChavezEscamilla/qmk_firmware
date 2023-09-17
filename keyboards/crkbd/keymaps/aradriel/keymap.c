@@ -57,8 +57,8 @@ ALGR(KC_RBRC), TD(TD_LABK_RABK), TD(TD_LPRN_RPRN), TD(TD_LBRC_RBRC), TD(TD_LCBR_
 
   [_ARROWPADFUNC] = LAYOUT_split_3x6_3(
      //,-----------------------------------------------------.                    ,-----------------------------------------------------.
-TD(TD_LALT_RALT),   KC_F1,   KC_F2,   KC_F3,   KC_F4, XXXXXXX,                       KC_INS, KC_PSCR, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
-     //                                                                              Insert PrintScreen
+TD(TD_LALT_RALT),   KC_F1,   KC_F2,   KC_F3,   KC_F4, XXXXXXX,                       KC_INS, KC_PSCR, KC_APP, XXXXXXX, XXXXXXX, XXXXXXX,
+     //                                                                              Insert PrintScreen Menu
      //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
          KC_LCTL,   KC_F5,   KC_F6,   KC_F7,   KC_F8, XXXXXXX,                      KC_HOME, KC_DEL,  KC_UP, XXXXXXX, XXXXXXX, XXXXXXX,
     //
